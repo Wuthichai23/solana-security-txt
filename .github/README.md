@@ -1,1 +1,1 @@
-../security-txt/README.md
+binance../security-txt/README.md
